@@ -1,2 +1,2 @@
 # javaProjects
-java assignments from University of Oregon
+Projects coded in java
